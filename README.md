@@ -1,13 +1,13 @@
 # FPGA_Fabric_Design_Architecture
 Documentation of FPGA Fabric Design Architecture learning, simulations and design experiments.
-FPGA - Fabric, Design and Architecture
+
 
 This repository contains all the information studied and created during the FPGA - Fabric, Design and Architecture workshop. The repository focuses on understanding FPGA architecture, FPGA design flow, open-source FPGA tools, custom FPGA fabrics, and RISC-V implementation on FPGA platforms.
 
 Table of Contents
 Introduction to FPGA
 FPGA vs ASIC
-Day 1 - Exploring FPGA Basics and Vivado
+## Day 1 - Exploring FPGA Basics and Vivado
 FPGA Architecture
 Configurable Logic Blocks
 Basys3 FPGA Board
@@ -18,14 +18,14 @@ Constraints
 Bitstream Generation
 Timing, Power and Area Analysis
 Introduction to VIO
-Day 2 - Exploring OpenFPGA, VPR and VTR
+## Day 2 - Exploring OpenFPGA, VPR and VTR
 OpenFPGA
 VPR Flow
 VTR Flow
 Timing Analysis
 Post-Synthesis Simulation
 Power Analysis
-Day 3 - RISC-V Core Programming Using Vivado
+## Day 3 - RISC-V Core Programming Using Vivado
 RTL Design
 Simulation
 Synthesis
@@ -33,13 +33,13 @@ Implementation
 Timing Analysis
 Resource Utilization
 Power Analysis
-Day 4 - Introduction to SOFA FPGA Fabric
+## Day 4 - Introduction to SOFA FPGA Fabric
 SOFA Architecture
 Counter Area Analysis
 Counter Timing Analysis
 Post-Implementation Simulation
 Power Analysis
-Day 5 - RISC-V Core on Custom SOFA Fabric
+## Day 5 - RISC-V Core on Custom SOFA Fabric
 Timing Reports
 Utilization Reports
 Post-Implementation Simulation
