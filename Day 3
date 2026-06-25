@@ -1,1 +1,47 @@
+RISC-V Core Programming Using Vivado
+RVMYTH Core
 
+# Mythcore Design Source
+The following files were used:
+
+mythcore_test.v
+mythcore_test_gn.v
+Reference repository:
+
+https://github.com/shivanishah269/risc-v-core/tree/master
+
+The RVMYTH processor is a 4-stage pipelined RISC-V processor.
+
+Main modules:
+
+Instruction Memory
+Data Memory
+ALU
+Register File
+RTL Simulation
+
+📷 Insert RISC-V simulation waveform
+
+Elaboration
+
+📷 Insert elaborated design
+
+Synthesis
+
+📷 Insert synthesis schematic
+
+Implementation
+
+📷 Insert implementation screenshot
+
+Timing Analysis
+
+📷 Insert timing report
+
+Device Utilization
+
+📷 Insert utilization report
+
+Power Analysis
+
+📷 Insert power report
