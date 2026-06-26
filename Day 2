@@ -1,1 +1,24 @@
+# Day2: Exploring OpenFPGA, VPR and VTR
+OpenFPGA
 
+OpenFPGA is an open-source framework for customizable FPGA architecture generation and design automation.
+
+
+# VPR
+
+Versatile Place and Route (VPR) performs:
+Packing
+Placement
+Routing
+Timing Analysis
+
+# VTR Flow
+
+The VTR flow consists of:
+ODIN-II
+ABC
+VPR
+
+Timing Analysis
+Post-Synthesis Simulation
+Power Analysis
