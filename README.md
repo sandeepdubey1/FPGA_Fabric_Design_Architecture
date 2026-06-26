@@ -50,6 +50,9 @@ Power Analysis
 ## Day 5 - RISC-V Core on Custom SOFA Fabric
 Timing Reports
 Utilization Reports
+
+![image](https://github.com/sandeepdubey1/FPGA_Fabric_Design_Architecture/blob/main/utilization.png?raw=true)
+
 Post-Implementation Simulation
 References
 Acknowledgements
