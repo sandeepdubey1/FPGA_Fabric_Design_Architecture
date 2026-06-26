@@ -32,6 +32,8 @@ Power Analysis
 ## Day 3 - RISC-V Core Programming Using Vivado
 RTL Design
 Simulation
+
+![image](https://github.com/sandeepdubey1/FPGA_Fabric_Design_Architecture/blob/main/simulation%20waveform.png?raw=true)
 Synthesis
 Implementation
 Timing Analysis
