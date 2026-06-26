@@ -37,6 +37,8 @@ Simulation
 Synthesis
 Implementation
 Timing Analysis
+
+![image](https://github.com/sandeepdubey1/FPGA_Fabric_Design_Architecture/blob/main/timing%20report.png?raw=true)
 Resource Utilization
 Power Analysis
 ## Day 4 - Introduction to SOFA FPGA Fabric
