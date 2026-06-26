@@ -1,1 +1,40 @@
+Day 1 - Exploring FPGA Basics and Vivado
+FPGA Architecture
+
+The FPGA architecture mainly consists of:
+
+Configurable Logic Blocks (CLBs)
+Routing Resources
+Input/Output Blocks
+Block RAMs
+Configurable Logic Block
+
+A CLB contains:
+
+LUTs
+Flip-Flops
+Carry Logic
+Multiplexers
+
+Basys3 FPGA Board
+
+Target FPGA Platform:
+Xilinx Artix-7
+Basys3 Development Board
+
+Counter Example in Vivado
+A 4-bit counter is implemented to understand the Vivado design flow.
+RTL Design
+Behavioral Simulation
+Elaboration
+Synthesis
+Constraints
+Bitstream Generation
+Timing Analysis
+Device Utilization
+Power Analysis
+
+Virtual Input Output (VIO)
+
+VIO allows internal FPGA signals to be monitored and controlled in real-time.
 
