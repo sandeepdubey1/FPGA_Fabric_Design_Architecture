@@ -25,6 +25,9 @@ VTR Flow
 Timing Analysis
 Post-Synthesis Simulation
 Power Analysis
+
+![image](https://github.com/sandeepdubey1/FPGA_Fabric_Design_Architecture/blob/main/first%20run%20o-p.png?raw=true)
+
 ## Day 3 - RISC-V Core Programming Using Vivado
 RTL Design
 Simulation
