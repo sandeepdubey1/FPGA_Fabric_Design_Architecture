@@ -1,1 +1,9 @@
+# Day 4 - Introduction to SOFA FPGA Fabric
+
+SOFA (Skywater Open FPGA Architecture) is an FPGA fabric generated using OpenFPGA and Sky130 technology.
+
+Counter Utilization
+Counter Timing
+Post-Implementation Simulation
+Power Analysis
 
